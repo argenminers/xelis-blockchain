@@ -2,7 +2,7 @@ Instalar Nodo*****************
 
 mkdir xelis && cd xelis
 
-wget [https://github.com/argenminers/xelis-blockchain/releases/download/V1.9.5/x86_64-unknown-linux-gnu.tar](https://github.com/argenminers/xelis-blockchain/releases/download/v1.10.0-Mainnet/x86_64-unknown-linux-gnu.tar)
+wget https://github.com/argenminers/xelis-blockchain/releases/download/v1.10.0-Mainnet/x86_64-unknown-linux-gnu.tar
 
 tar -xf x86_64-unknown-linux-gnu.tar && rm x86_64-unknown-linux-gnu.tar
 
